@@ -1,0 +1,15 @@
+.dashboard {
+  margin: 2rem;
+  font-size: 1rem;
+}
+.dashboard a {
+  display: inline;
+  text-decoration: none;
+  color: rgb(43, 146, 43);
+}
+.dashboard a:hover {
+  color: black;
+}
+.dashboard a:active {
+  color: black;
+}

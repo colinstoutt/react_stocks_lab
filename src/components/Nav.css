@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5rem;
+  background-color: rgb(99, 174, 88);
+  padding: 1rem 0 1rem 2rem;
+}
+.link {
+  text-decoration: none;
+  font-weight: 800;
+  color: white;
+}
+.link:first-of-type {
+  font-size: 2rem;
+  color: #222;
+}
